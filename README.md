@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimedang&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rimedang&theme=dracula)
-
----
+<!-- ** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rimedang&theme=dracula) -->
 
 <!--현재 배우고 있는것과 배우고 싶은 것것-->
 
