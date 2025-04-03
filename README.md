@@ -18,13 +18,17 @@ Here are some ideas to get you started:
 💻 Backend & Mobile Developer | Interested in Spring Boot & Flutter
 🚀 Passionate about Software Engineering & DevOps
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:F0FFFF,100:B0E0E6&height=100&section=header&text=Welcome%20to%20Arim's%20Sky!&fontSize=35&fontColor=111)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:F0FFFF,100:B0E0E6&height=100&section=header&text=Welcome%20to%20Arim's%20github!&fontSize=35&fontColor=111)
+
+---
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimedang&show_icons=true&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rimedang&theme=dracula)
+
+---
 
 <!--현재 배우고 있는것과 배우고 싶은 것것-->
 
